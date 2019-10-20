@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: /mnt/linuxlab/home/kk72518/kk72518/P62/p62
+Node: hpcl3-3
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+48 total processes failed to start
